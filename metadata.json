@@ -1,0 +1,5 @@
+{
+  "name": "AgriSmart AI - Farmer Support Platform",
+  "description": "An AI-powered agricultural advisory system providing crop recommendations, disease detection, market insights, and government schemes for farmers.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
